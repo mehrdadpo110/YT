@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7174",
+  "folder": "YouTube__watch_14050231221537_39b317",
+  "base_name": "I_Hunted_PROPS_in_CS2_UulrEueb7DM_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadpo110/YT/releases/tag/co-releases-v1-7174",
+  "files": [
+    {
+      "name": "I_Hunted_PROPS_in_CS2_UulrEueb7DM_1080p.mp4",
+      "url": "https://github.com/mehrdadpo110/YT/releases/download/co-releases-v1-7174/I_Hunted_PROPS_in_CS2_UulrEueb7DM_1080p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadpo110/YT/releases/assets/426519071",
+      "id": 426519071,
+      "size": 1966323352,
+      "download_count": 0
+    }
+  ]
+}
